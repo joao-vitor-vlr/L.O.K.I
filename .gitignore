@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── L.O.K.I ─────────────────────────────────────────────────
+data/
+.data/

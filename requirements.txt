@@ -1,0 +1,28 @@
+# ── Core Framework ──────────────────────────────────────────
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-experimental>=0.3.0
+
+# ── LLM Providers ──────────────────────────────────────────
+langchain-ollama>=0.2.0
+langchain-openai>=0.2.0
+langchain-anthropic>=0.2.0
+
+# ── Graph RAG ──────────────────────────────────────────────
+networkx>=3.2.0
+gravis>=0.1.0
+
+# ── Document Loaders ───────────────────────────────────────
+pypdf>=4.0.0
+unstructured>=0.15.0
+langchain-text-splitters>=0.3.0
+python-pptx>=1.0.0
+fonttools>=4.50.0
+
+# ── CLI / UI ────────────────────────────────────────────────
+rich>=13.7.0
+prompt_toolkit>=3.0.0
+
+# ── Config ──────────────────────────────────────────────────
+python-dotenv>=1.0.0
